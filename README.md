@@ -4,16 +4,16 @@
 
 # Build Setup
 
-@ root directory<br />
+@ root directory_
 run: npm install
 
-@ client directory<br />
+@ client directory_
 run: npm install
 
 
 # Run App
 
-@ client directory<br />
+@ client directory_
 run: npm start
 
 
