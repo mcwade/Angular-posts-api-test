@@ -4,17 +4,17 @@
 
 # Build Setup
 
-@ root directory
+@ root directory<br />
 run: npm install
 
-@ client directory
+@ client directory<br />
 run: npm install
 
 
 # Run App
 
-@ client directory
-npm start
+@ client directory<br />
+run: npm start
 
 
 served at localhost:3000
