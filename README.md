@@ -14,7 +14,7 @@ run: npm install
 # Run App
 
 @ client directory
-npm run dev
+npm start
 
 
 served at localhost:3000
