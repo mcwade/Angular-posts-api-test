@@ -10,9 +10,6 @@ run: npm install
 @ client directory  
 run: npm install
 
-[test]
-**
-
 # Run App
 
 @ client directory  
