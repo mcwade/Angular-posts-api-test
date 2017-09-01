@@ -11,6 +11,7 @@ run: npm install
 run: npm install
 
 [test]
+¡™£¢∞§¶•ªº
 
 # Run App
 
